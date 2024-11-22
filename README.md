@@ -69,6 +69,23 @@ Las dependencias del proyecto están gestionadas en el archivo pom.xml. Asegúra
 
 <br> <br> <br> <br> 
 
-# Codigo entregado por Manuel Yañez
+# Código entregado por Manuel Yáñez
 
-## Dependencias
+
+
+- Se han completado los 7 objetivos de la prueba
+- Se han completado 2 de los 3 objetivos extra de la prueba
+
+Si en vez de usar como origen de datos el json se hubiese utilizado una bbdd embebida el resultado hubiese sido mejor.
+
+Se ha utilizado el json como origen de datos porque he pensado que eso es lo que se Alejandro Villergas hubiese preferido, por la conversación que tuve el jueves por la mañana. El me comentó que quería que se comprobara el manejo de json s.
+
+Intente implementar el objetivo de JWT, pero como vi que me iba a requerir más tiempo he preferido entregaros ya lo que hice el jueves (21/11/2024).
+( Con spring boot 3 y java17, creo que me hubiese sido mas sencillo, para JWT hay mas documentación )
+
+El codigo esta en github:
+git clone https://github.com/manuelyt/technicaltest.git
+
+En la raiz del proyecto hay 2 archivos de documentacion, un doc y un pdf con informacion para la ejecucion del proyecto y algunos comentarios.
+
+<br> <br> 
